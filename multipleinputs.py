@@ -21,6 +21,7 @@ nums = map(int(),input().split())
 #Now for input of more than one line
 
 nums = int(input()) #This is the number of number of inputs are to be taken 
+n = input()
 a=[] #This is an emoty to store the inputs
 for i in range(n):  #This is a loop running the number of times the input is to be taken 
     store = map(int(),input().split()) #This is used to store every input in list format where every input is in integer format
