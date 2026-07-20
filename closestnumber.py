@@ -10,4 +10,3 @@ else:
         if i%m==0:
             print(i)
             break
-        
